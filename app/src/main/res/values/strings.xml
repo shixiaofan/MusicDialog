@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="explain">one</string>
+    <string name="light_screen">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+</resources>
